@@ -14,4 +14,4 @@ Feature: User can access fourms and read/write and comment
     And save the fourm data
     Then I should see my fourm with name 'Sample' in the fourm page
 
-    Scenario: test
+    Scenario: test the test
